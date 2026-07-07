@@ -1,6 +1,6 @@
 # 🎂 Happy 34th Birthday bobo! - Interactive Birthday Experience  
 
-[![Live Demo](https://img.shields.io/badge/🎉%20Live%20Demo-Click%20Here-blueviolet?style=for-the-badge)](https://patrick-paul.github.io/happybirthday/)
+[![Live Demo](https://img.shields.io/badge/🎉%20Live%20Demo-Click%20Here-blueviolet?style=for-the-badge)]([https://patrick-paul.github.io/happybirthday/](https://zarakkhan3218.github.io/Bobo/))
 
 A personalized, interactive birthday greeting webpage featuring smooth animations, microphone-enabled candle blowing, confetti effects, and a beautiful timeline experience.
 
